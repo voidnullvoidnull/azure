@@ -1,0 +1,3811 @@
+{
+"objects":[  
+  {  
+    "id":87041,
+    "event_group_id":174951,
+    "end_point":{  
+      "pipe_level":53.29,
+      "lon":47.6170775631859,
+      "lat":43.2362625373988
+    },
+    "start_point":{  
+      "pipe_level":53.25,
+      "lon":47.617094089896,
+      "lat":43.2362653894598
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12682362,
+      "typeCl":"&#1053;&#1077; &#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1086;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":29513938,
+      "specificationCl":"&#1053;&#1077; &#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1086;",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+        {  
+          "type":"&#1055;&#1051;&#1053;",
+          "page":"  6976.095.016.024.021.14-&#1058;&#1051; &#1083;.2 &#1055;&#1083;&#1072;&#1085; &#1075;&#1072;&#1079;&#1086;&#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; &#1055;&#1050;2908+00 - &#1055;&#1050;2958+00  (&#1082;&#1084; 960,0 - &#1082;&#1084; 965,1)"
+        }
+      ],
+      "stationBegin":29513753,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1085;&#1072; &#1055;&#1050;2951+38.45",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1085;&#1072; &#1055;&#1050;2951+38.45",
+      "measureBegin":12682177,
+      "materialCl":"&#1053;&#1077; &#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1086;",
+      "manufacturerCl":"&#1053;&#1077; &#1086;&#1087;&#1088;&#1077;&#1076;&#1077;&#1083;&#1077;&#1085;&#1086;",
+      "comments":"&#1059;&#1079;&#1077;&#1083; &#1087;&#1086;&#1076;&#1082;&#1083;&#1102;&#1095;&#1077;&#1085;&#1080;&#1103; &#1084;&#1077;&#1078;&#1089;&#1080;&#1089;&#1090;&#1077;&#1084;&#1085;&#1086;&#1081; &#1087;&#1077;&#1088;&#1077;&#1084;&#1099;&#1095;&#1082;&#1080; &#1044;&#1091;1000 (6976.095.016.024.521.14-&#1058;&#1051;2)"
+    },
+    "end_measure_station":126926,
+    "type":"TEE",
+    "begin_measure_station":126924
+  },
+  {  
+    "id":176752,
+    "event_group_id":190016,
+    "end_point":{  
+      "pipe_level":86.33188452,
+      "lon":48.3644594356608,
+      "lat":43.7096136941055
+    },
+    "start_point":{  
+      "pipe_level":86.50524941,
+      "lon":48.3645004473176,
+      "lat":43.7096531499501
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":2610720,
+      "stationEnd":19451119,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":19450577,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":2610178,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":26114,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":26108
+  },
+  {  
+    "id":176916,
+    "event_group_id":190016,
+    "end_point":{  
+      "pipe_level":86.2947806,
+      "lon":48.3644506582564,
+      "lat":43.7096052496895
+    },
+    "start_point":{  
+      "pipe_level":86.33188452,
+      "lon":48.3644594356608,
+      "lat":43.7096136941055
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":2610836,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1059;&#1050;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":19451235,
+      "weight":1458,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.325,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":19451119,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "measureBegin":2610720,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057; 1420(25,8 &#1050;60)&#1093;325(14 &#1050;42)-9,8-0,75-&#1059;",
+      "nominalDiameterBranch":0.325
+    },
+    "end_measure_station":26115,
+    "type":"TEE",
+    "begin_measure_station":26114
+  },
+  {  
+    "id":176759,
+    "event_group_id":190016,
+    "end_point":{  
+      "pipe_level":86.26279446,
+      "lon":48.364443091528,
+      "lat":43.7095979700228
+    },
+    "start_point":{  
+      "pipe_level":86.2947806,
+      "lon":48.3644506582564,
+      "lat":43.7096052496895
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":2610936,
+      "stationEnd":19451335,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":19451235,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":2610836,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":26116,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":26115
+  },
+  {  
+    "id":176856,
+    "event_group_id":190016,
+    "end_point":{  
+      "pipe_level":86.25,
+      "lon":48.3644400648364,
+      "lat":43.7095950581567
+    },
+    "start_point":{  
+      "pipe_level":86.26279446,
+      "lon":48.364443091528,
+      "lat":43.7095979700228
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":2610976,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":19451375,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.0258,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.0258,
+      "stationBegin":19451335,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":2610936,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":26116,
+    "type":"REDUCER",
+    "begin_measure_station":26116
+  },
+  {  
+    "id":17868,
+    "event_group_id":190016,
+    "end_point":{  
+      "pipe_level":86.17,
+      "lon":48.3644211398167,
+      "lat":43.7095768511166
+    },
+    "start_point":{  
+      "pipe_level":86.25,
+      "lon":48.3644400648364,
+      "lat":43.7095950581567
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":2611226,
+      "typeCl":"&#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "stationEnd":19451625,
+      "weight":27465,
+      "nominalPressureRating":100,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalPressureRatingOutlet":100,
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+        {  
+          "type":"&#1055;&#1051;&#1053;",
+          "details":"&#1055;&#1083;&#1072;&#1085; &#1075;&#1072;&#1079;&#1086;&#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; &#1055;&#1050;1926+00 - &#1055;&#1050;1976+00 (&#1082;&#1084; 860,0 - &#1082;&#1084; 865,0)",
+          "page":"6976.095.016.024.021.04-&#1058;&#1051; &#1083;.2"
+        }
+      ],
+      "stationBegin":19451375,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "name":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":2610976,
+      "nominalPressureRatingInlet":100,
+      "materialCl":"09&#1043;2&#1057;",
+      "manufacturerCl":"&#1058;&#1103;&#1078;&#1087;&#1088;&#1086;&#1084;&#1072;&#1088;&#1084;&#1072;&#1090;&#1091;&#1088;&#1072;",
+      "modelNumber":"11&#1083;&#1089;(6)762&#1088;8"
+    },
+    "end_measure_station":26119,
+    "type":"VALVE",
+    "begin_measure_station":26116
+  },
+  {  
+    "id":176857,
+    "event_group_id":190016,
+    "end_point":{  
+      "pipe_level":86.15724019,
+      "lon":48.3644181213207,
+      "lat":43.7095739471381
+    },
+    "start_point":{  
+      "pipe_level":86.17,
+      "lon":48.3644211398167,
+      "lat":43.7095768511166
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":2611266,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":19451665,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.0258,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.0258,
+      "stationBegin":19451625,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":2611226,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":26119,
+    "type":"REDUCER",
+    "begin_measure_station":26119
+  },
+  {  
+    "id":176766,
+    "event_group_id":190016,
+    "end_point":{  
+      "pipe_level":86.12525405,
+      "lon":48.3644105545901,
+      "lat":43.7095666674808
+    },
+    "start_point":{  
+      "pipe_level":86.15724019,
+      "lon":48.3644181213207,
+      "lat":43.7095739471381
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":2611366,
+      "stationEnd":19451765,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":19451665,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":2611266,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":26120,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":26119
+  },
+  {  
+    "id":176919,
+    "event_group_id":190016,
+    "end_point":{  
+      "pipe_level":86.08815012,
+      "lon":48.3644017771821,
+      "lat":43.7095582230809
+    },
+    "start_point":{  
+      "pipe_level":86.12525405,
+      "lon":48.3644105545901,
+      "lat":43.7095666674808
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":2611482,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1059;&#1050;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":19451881,
+      "weight":1458,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.325,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":19451765,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "measureBegin":2611366,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057; 1420(25,8 &#1050;60)&#1093;325(14 &#1050;42)-9,8-0,75-&#1059;",
+      "nominalDiameterBranch":0.325
+    },
+    "end_measure_station":26121,
+    "type":"TEE",
+    "begin_measure_station":26120
+  },
+  {  
+    "id":176773,
+    "event_group_id":190016,
+    "end_point":{  
+      "pipe_level":85.91478524,
+      "lon":48.3643607654914,
+      "lat":43.7095187673891
+    },
+    "start_point":{  
+      "pipe_level":86.08815012,
+      "lon":48.3644017771821,
+      "lat":43.7095582230809
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":2612024,
+      "stationEnd":19452422,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":19451881,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":2611482,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":26127,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":26121
+  },
+  {  
+    "id":177824,
+    "event_group_id":190017,
+    "end_point":{  
+      "pipe_level":60.31952309,
+      "lon":48.1886070453675,
+      "lat":43.5603901994413
+    },
+    "start_point":{  
+      "pipe_level":60.27616962,
+      "lon":48.1886554722799,
+      "lat":43.5603984641671
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":4960503,
+      "stationEnd":21802119,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":21801577,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":4959961,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":49623,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":49618
+  },
+  {  
+    "id":177946,
+    "event_group_id":190017,
+    "end_point":{  
+      "pipe_level":60.32880169,
+      "lon":48.1885966809359,
+      "lat":43.5603884306091
+    },
+    "start_point":{  
+      "pipe_level":60.31952309,
+      "lon":48.1886070453675,
+      "lat":43.5603901994413
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":4960619,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1059;&#1050;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":21802235,
+      "weight":1458,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.325,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":21802119,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "measureBegin":4960503,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057; 1420(25,8 &#1050;60)&#1093;325(14 &#1050;42)-9,8-0,75-&#1059;",
+      "nominalDiameterBranch":0.325
+    },
+    "end_measure_station":49624,
+    "type":"TEE",
+    "begin_measure_station":49623
+  },
+  {  
+    "id":177831,
+    "event_group_id":190017,
+    "end_point":{  
+      "pipe_level":60.33680048,
+      "lon":48.1885877460811,
+      "lat":43.5603869057543
+    },
+    "start_point":{  
+      "pipe_level":60.32880169,
+      "lon":48.1885966809359,
+      "lat":43.5603884306091
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":4960719,
+      "stationEnd":21802335,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":21802235,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":4960619,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":49625,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":49624
+  },
+  {  
+    "id":177904,
+    "event_group_id":190017,
+    "end_point":{  
+      "pipe_level":60.34,
+      "lon":48.1885841721392,
+      "lat":43.5603862958126
+    },
+    "start_point":{  
+      "pipe_level":60.33680048,
+      "lon":48.1885877460811,
+      "lat":43.5603869057543
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":4960759,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":21802375,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.0258,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.0258,
+      "stationBegin":21802335,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":4960719,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":49626,
+    "type":"REDUCER",
+    "begin_measure_station":49625
+  },
+  {  
+    "id":38138,
+    "event_group_id":190017,
+    "end_point":{  
+      "pipe_level":60.36,
+      "lon":48.1885618316337,
+      "lat":43.5603824831037
+    },
+    "start_point":{  
+      "pipe_level":60.34,
+      "lon":48.1885841721392,
+      "lat":43.5603862958126
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":4961009,
+      "typeCl":"&#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "stationEnd":21802625,
+      "weight":27465,
+      "nominalPressureRating":100,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalPressureRatingOutlet":100,
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+        {  
+          "type":"&#1055;&#1051;&#1053;",
+          "details":"&#1055;&#1083;&#1072;&#1085; &#1075;&#1072;&#1079;&#1086;&#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; &#1055;&#1050;2179+00 - &#1055;&#1050;2222+00  (&#1082;&#1084; 885,7 - &#1082;&#1084; 890,0)",
+          "page":"6976.095.016.024.021.06-&#1058;&#1051; &#1083;.9"
+        }
+      ],
+      "stationBegin":21802375,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "name":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":4960759,
+      "nominalPressureRatingInlet":100,
+      "materialCl":"09&#1043;2&#1057;",
+      "manufacturerCl":"&#1058;&#1103;&#1078;&#1087;&#1088;&#1086;&#1084;&#1072;&#1088;&#1084;&#1072;&#1090;&#1091;&#1088;&#1072;",
+      "modelNumber":"11&#1083;&#1089;(6)762&#1088;8"
+    },
+    "end_measure_station":49628,
+    "type":"VALVE",
+    "begin_measure_station":49626
+  },
+  {  
+    "id":177905,
+    "event_group_id":190017,
+    "end_point":{  
+      "pipe_level":60.3631965,
+      "lon":48.1885582610599,
+      "lat":43.5603818737375
+    },
+    "start_point":{  
+      "pipe_level":60.36,
+      "lon":48.1885618316337,
+      "lat":43.5603824831037
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":4961049,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":21802665,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.0258,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.0258,
+      "stationBegin":21802625,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":4961009,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":49629,
+    "type":"REDUCER",
+    "begin_measure_station":49628
+  },
+  {  
+    "id":177838,
+    "event_group_id":190017,
+    "end_point":{  
+      "pipe_level":60.3711953,
+      "lon":48.1885493262049,
+      "lat":43.560380348885
+    },
+    "start_point":{  
+      "pipe_level":60.3631965,
+      "lon":48.1885582610599,
+      "lat":43.5603818737375
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":4961149,
+      "stationEnd":21802765,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":21802665,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":4961049,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":49630,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":49629
+  },
+  {  
+    "id":177949,
+    "event_group_id":190017,
+    "end_point":{  
+      "pipe_level":60.3804739,
+      "lon":48.188538961773,
+      "lat":43.5603785800569
+    },
+    "start_point":{  
+      "pipe_level":60.3711953,
+      "lon":48.1885493262049,
+      "lat":43.560380348885
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":4961265,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1059;&#1050;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":21802881,
+      "weight":1458,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.325,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":21802765,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "measureBegin":4961149,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057; 1420(25,8 &#1050;60)&#1093;325(14 &#1050;42)-9,8-0,75-&#1059;",
+      "nominalDiameterBranch":0.325
+    },
+    "end_measure_station":49631,
+    "type":"TEE",
+    "begin_measure_station":49630
+  },
+  {  
+    "id":177845,
+    "event_group_id":190017,
+    "end_point":{  
+      "pipe_level":60.42382736,
+      "lon":48.1884905348582,
+      "lat":43.5603703153694
+    },
+    "start_point":{  
+      "pipe_level":60.3804739,
+      "lon":48.188538961773,
+      "lat":43.5603785800569
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":4961807,
+      "stationEnd":21803423,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":21802881,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":4961265,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":49636,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":49631
+  },
+  {  
+    "id":178950,
+    "event_group_id":190018,
+    "end_point":{  
+      "pipe_level":59.12,
+      "lon":47.9626356053768,
+      "lat":43.5710106136589
+    },
+    "start_point":{  
+      "pipe_level":59.12,
+      "lon":47.9626787959688,
+      "lat":43.5710442579659
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":7548569,
+      "stationEnd":24383619,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":24383077,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":7548027,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":75523,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":75518
+  },
+  {  
+    "id":179114,
+    "event_group_id":190018,
+    "end_point":{  
+      "pipe_level":59.12,
+      "lon":47.9626263616325,
+      "lat":43.5710034130397
+    },
+    "start_point":{  
+      "pipe_level":59.12,
+      "lon":47.9626356053768,
+      "lat":43.5710106136589
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":7548685,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1059;&#1050;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":24383735,
+      "weight":1458,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.325,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":24383619,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "measureBegin":7548569,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057; 1420(25,8 &#1050;60)&#1093;325(14 &#1050;42)-9,8-0,75-&#1059;",
+      "nominalDiameterBranch":0.325
+    },
+    "end_measure_station":75524,
+    "type":"TEE",
+    "begin_measure_station":75523
+  },
+  {  
+    "id":178957,
+    "event_group_id":190018,
+    "end_point":{  
+      "pipe_level":59.12,
+      "lon":47.9626183928871,
+      "lat":43.5709972056113
+    },
+    "start_point":{  
+      "pipe_level":59.12,
+      "lon":47.9626263616325,
+      "lat":43.5710034130397
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":7548785,
+      "stationEnd":24383835,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":24383735,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":7548685,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":75525,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":75524
+  },
+  {  
+    "id":179054,
+    "event_group_id":190018,
+    "end_point":{  
+      "pipe_level":59.12,
+      "lon":47.9626152053888,
+      "lat":43.5709947226406
+    },
+    "start_point":{  
+      "pipe_level":59.12,
+      "lon":47.9626183928871,
+      "lat":43.5709972056113
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":7548825,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":24383875,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.0258,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.0258,
+      "stationBegin":24383835,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":7548785,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":75526,
+    "type":"REDUCER",
+    "begin_measure_station":75525
+  },
+  {  
+    "id":50418,
+    "event_group_id":190018,
+    "end_point":{  
+      "pipe_level":59.12,
+      "lon":47.9625952827821,
+      "lat":43.5709792035028
+    },
+    "start_point":{  
+      "pipe_level":59.12,
+      "lon":47.9626152053888,
+      "lat":43.5709947226406
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":7549075,
+      "typeCl":"&#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "stationEnd":24384125,
+      "weight":27465,
+      "nominalPressureRating":100,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalPressureRatingOutlet":100,
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+        {  
+          "type":"&#1055;&#1051;&#1053;",
+          "details":"&#1055;&#1083;&#1072;&#1085; &#1075;&#1072;&#1079;&#1086;&#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; &#1055;&#1050;2417+00-&#1055;&#1050;2467+00 (&#1082;&#1084; 910.0-&#1082;&#1084; 915.0)",
+          "page":"6976.095.016.024.021.09-&#1058;&#1051; &#1083;.2"
+        }
+      ],
+      "stationBegin":24383875,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "name":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":7548825,
+      "nominalPressureRatingInlet":100,
+      "materialCl":"09&#1043;2&#1057;",
+      "manufacturerCl":"&#1058;&#1103;&#1078;&#1087;&#1088;&#1086;&#1084;&#1072;&#1088;&#1084;&#1072;&#1090;&#1091;&#1088;&#1072;",
+      "modelNumber":"11&#1083;&#1089;(6)762&#1088;8"
+    },
+    "end_measure_station":75528,
+    "type":"VALVE",
+    "begin_measure_station":75526
+  },
+  {  
+    "id":179055,
+    "event_group_id":190018,
+    "end_point":{  
+      "pipe_level":59.12,
+      "lon":47.9625920960245,
+      "lat":43.5709767211114
+    },
+    "start_point":{  
+      "pipe_level":59.12,
+      "lon":47.9625952827821,
+      "lat":43.5709792035028
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":7549115,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":24384165,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.0258,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.0258,
+      "stationBegin":24384125,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":7549075,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":75529,
+    "type":"REDUCER",
+    "begin_measure_station":75528
+  },
+  {  
+    "id":178964,
+    "event_group_id":190018,
+    "end_point":{  
+      "pipe_level":59.12,
+      "lon":47.9625841272776,
+      "lat":43.5709705136915
+    },
+    "start_point":{  
+      "pipe_level":59.12,
+      "lon":47.9625920960245,
+      "lat":43.5709767211114
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":7549215,
+      "stationEnd":24384265,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":24384165,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":7549115,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":75530,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":75529
+  },
+  {  
+    "id":179117,
+    "event_group_id":190018,
+    "end_point":{  
+      "pipe_level":59.12,
+      "lon":47.9625748835306,
+      "lat":43.5709633130865
+    },
+    "start_point":{  
+      "pipe_level":59.12,
+      "lon":47.9625841272776,
+      "lat":43.5709705136915
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":7549331,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1059;&#1050;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":24384381,
+      "weight":1458,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.325,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":24384265,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "measureBegin":7549215,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057; 1420(25,8 &#1050;60)&#1093;325(14 &#1050;42)-9,8-0,75-&#1059;",
+      "nominalDiameterBranch":0.325
+    },
+    "end_measure_station":75531,
+    "type":"TEE",
+    "begin_measure_station":75530
+  },
+  {  
+    "id":178971,
+    "event_group_id":190018,
+    "end_point":{  
+      "pipe_level":59.12,
+      "lon":47.9625316929136,
+      "lat":43.5709296689151
+    },
+    "start_point":{  
+      "pipe_level":59.12,
+      "lon":47.9625748835306,
+      "lat":43.5709633130865
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":7549873,
+      "stationEnd":24384923,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":24384381,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":7549331,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":75536,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":75531
+  },
+  {  
+    "id":180106,
+    "event_group_id":190019,
+    "end_point":{  
+      "pipe_level":103.5404827,
+      "lon":47.7777443631813,
+      "lat":43.4455919045468
+    },
+    "start_point":{  
+      "pipe_level":103.58384841,
+      "lon":47.7777719082717,
+      "lat":43.4456515678998
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":10097138,
+      "stationEnd":26932619,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":26932077,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":10096596,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":101051,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":101046
+  },
+  {  
+    "id":180270,
+    "event_group_id":190019,
+    "end_point":{  
+      "pipe_level":103.53120148,
+      "lon":47.7777384679179,
+      "lat":43.4455791352766
+    },
+    "start_point":{  
+      "pipe_level":103.5404827,
+      "lon":47.7777443631813,
+      "lat":43.4455919045468
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":10097254,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1059;&#1050;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":26932735,
+      "weight":1458,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.325,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":26932619,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "measureBegin":10097138,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057; 1420(25,8 &#1050;60)&#1093;325(14 &#1050;42)-9,8-0,75-&#1059;",
+      "nominalDiameterBranch":0.325
+    },
+    "end_measure_station":101052,
+    "type":"TEE",
+    "begin_measure_station":101051
+  },
+  {  
+    "id":180113,
+    "event_group_id":190019,
+    "end_point":{  
+      "pipe_level":103.52320042,
+      "lon":47.7777333857933,
+      "lat":43.4455681272871
+    },
+    "start_point":{  
+      "pipe_level":103.53120148,
+      "lon":47.7777384679179,
+      "lat":43.4455791352766
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":10097354,
+      "stationEnd":26932835,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":26932735,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":10097254,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":101053,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":101052
+  },
+  {  
+    "id":180210,
+    "event_group_id":190019,
+    "end_point":{  
+      "pipe_level":103.52,
+      "lon":47.7777313529431,
+      "lat":43.4455637240921
+    },
+    "start_point":{  
+      "pipe_level":103.52320042,
+      "lon":47.7777333857933,
+      "lat":43.4455681272871
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":10097394,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":26932875,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.0258,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.0258,
+      "stationBegin":26932835,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":10097354,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":101054,
+    "type":"REDUCER",
+    "begin_measure_station":101053
+  },
+  {  
+    "id":67866,
+    "event_group_id":190019,
+    "end_point":{  
+      "pipe_level":103.5,
+      "lon":47.7777186492989,
+      "lat":43.4455362077543
+    },
+    "start_point":{  
+      "pipe_level":103.52,
+      "lon":47.7777313529431,
+      "lat":43.4455637240921
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":10097644,
+      "typeCl":"&#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "stationEnd":26933125,
+      "weight":27465,
+      "nominalPressureRating":100,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalPressureRatingOutlet":100,
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+        {  
+          "type":"&#1055;&#1051;&#1053;",
+          "details":"&#1055;&#1083;&#1072;&#1085; &#1075;&#1072;&#1079;&#1086;&#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; &#1055;&#1050;2663+00 - &#1055;&#1050;2713+00  (&#1082;&#1084; 934,8 - &#1082;&#1084; 940,0)",
+          "page":"6976.095.016.024.021.11-&#1058;&#1051; &#1083;.6"
+        }
+      ],
+      "stationBegin":26932875,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "name":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":10097394,
+      "nominalPressureRatingInlet":100,
+      "materialCl":"09&#1043;2&#1057;",
+      "manufacturerCl":"&#1058;&#1103;&#1078;&#1087;&#1088;&#1086;&#1084;&#1072;&#1088;&#1084;&#1072;&#1090;&#1091;&#1088;&#1072;",
+      "modelNumber":"11&#1083;&#1089;(6)762&#1088;8"
+    },
+    "end_measure_station":101056,
+    "type":"VALVE",
+    "begin_measure_station":101054
+  },
+  {  
+    "id":180211,
+    "event_group_id":190019,
+    "end_point":{  
+      "pipe_level":103.49679694,
+      "lon":47.7777166147744,
+      "lat":43.4455318009376
+    },
+    "start_point":{  
+      "pipe_level":103.5,
+      "lon":47.7777186492989,
+      "lat":43.4455362077543
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":10097684,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":26933165,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.0258,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.0258,
+      "stationBegin":26933125,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":10097644,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":101057,
+    "type":"REDUCER",
+    "begin_measure_station":101056
+  },
+  {  
+    "id":180120,
+    "event_group_id":190019,
+    "end_point":{  
+      "pipe_level":103.48879589,
+      "lon":47.7777115326451,
+      "lat":43.4455207929575
+    },
+    "start_point":{  
+      "pipe_level":103.49679694,
+      "lon":47.7777166147744,
+      "lat":43.4455318009376
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":10097784,
+      "stationEnd":26933265,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":26933165,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":10097684,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":101058,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":101057
+  },
+  {  
+    "id":180273,
+    "event_group_id":190019,
+    "end_point":{  
+      "pipe_level":103.47951467,
+      "lon":47.7777056373738,
+      "lat":43.4455080237032
+    },
+    "start_point":{  
+      "pipe_level":103.48879589,
+      "lon":47.7777115326451,
+      "lat":43.4455207929575
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":10097900,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1059;&#1050;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":26933381,
+      "weight":1458,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.325,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":26933265,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "measureBegin":10097784,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057; 1420(25,8 &#1050;60)&#1093;325(14 &#1050;42)-9,8-0,75-&#1059;",
+      "nominalDiameterBranch":0.325
+    },
+    "end_measure_station":101059,
+    "type":"TEE",
+    "begin_measure_station":101058
+  },
+  {  
+    "id":180127,
+    "event_group_id":190019,
+    "end_point":{  
+      "pipe_level":103.43614896,
+      "lon":47.777678092208,
+      "lat":43.4454483605016
+    },
+    "start_point":{  
+      "pipe_level":103.47951467,
+      "lon":47.7777056373738,
+      "lat":43.4455080237032
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":10098442,
+      "stationEnd":26933923,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":26933381,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":10097900,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":101064,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":101059
+  },
+  {  
+    "id":184763,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":51.7901531,
+      "lon":47.619021910514,
+      "lat":43.2365984843624
+    },
+    "start_point":{  
+      "pipe_level":51.79,
+      "lon":47.6190641387658,
+      "lat":43.236605780735
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12660596,
+      "stationEnd":29492172,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29491700,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12660123,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126708,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126704
+  },
+  {  
+    "id":180430,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":51.92422413,
+      "lon":47.6190023195739,
+      "lat":43.2365950993624
+    },
+    "start_point":{  
+      "pipe_level":51.7901531,
+      "lon":47.619021910514,
+      "lat":43.2365984843624
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12660815,
+      "typeCl":"&#1054;&#1043;",
+      "stationEnd":29492392,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/2-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "angle":7,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29492172,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1054;&#1090;&#1074;&#1086;&#1076; &#1054;&#1043; 7°-1420(25,8 &#1050;60)-9,8-0,75-5&#1044;&#1091;-1100\/1100-&#1059; 7°",
+      "name":"&#1054;&#1090;&#1074;&#1086;&#1076; &#1054;&#1043; 7°-1420(25,8 &#1050;60)-9,8-0,75-5&#1044;&#1091;-1100\/1100-&#1059; 7°",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12660596,
+      "radius":7.1,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":126711,
+    "type":"ELBOW",
+    "begin_measure_station":126708
+  },
+  {  
+    "id":184764,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.15628525,
+      "lon":47.6189854622869,
+      "lat":43.236592186696
+    },
+    "start_point":{  
+      "pipe_level":51.92422413,
+      "lon":47.6190023195739,
+      "lat":43.2365950993624
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12661006,
+      "stationEnd":29492580,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29492392,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12660815,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126713,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126711
+  },
+  {  
+    "id":180439,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29035628,
+      "lon":47.6189658713464,
+      "lat":43.2365888017008
+    },
+    "start_point":{  
+      "pipe_level":52.15628525,
+      "lon":47.6189854622869,
+      "lat":43.236592186696
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12661225,
+      "typeCl":"&#1054;&#1043;",
+      "stationEnd":29492800,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/2-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "angle":7,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29492580,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1054;&#1090;&#1074;&#1086;&#1076; &#1054;&#1043; 7°-1420(25,8 &#1050;60)-9,8-0,75-5&#1044;&#1091;-1100\/1100-&#1059; 7°",
+      "name":"&#1054;&#1090;&#1074;&#1086;&#1076; &#1054;&#1043; 7°-1420(25,8 &#1050;60)-9,8-0,75-5&#1044;&#1091;-1100\/1100-&#1059; 7°",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12661006,
+      "radius":7.1,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":126715,
+    "type":"ELBOW",
+    "begin_measure_station":126713
+  },
+  {  
+    "id":184768,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29051336,
+      "lon":47.6189225442829,
+      "lat":43.2365813154997
+    },
+    "start_point":{  
+      "pipe_level":52.29035628,
+      "lon":47.6189658713464,
+      "lat":43.2365888017008
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12661710,
+      "stationEnd":29493285,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29492800,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12661225,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126720,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126715
+  },
+  {  
+    "id":182162,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":53.00042106,
+      "lon":47.6189480047217,
+      "lat":43.2365857146416
+    },
+    "start_point":{  
+      "pipe_level":53.00042106,
+      "lon":47.6189480047217,
+      "lat":43.2365857146416
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12661425,
+      "typeCl":"&#1056;&#1077;&#1087;&#1077;&#1088; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103; &#1087;&#1088;&#1086;&#1089;&#1072;&#1076;&#1086;&#1082; &#1080; &#1076;&#1077;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1081;",
+      "document":[  
+
+      ],
+      "stationEnd":29493000,
+      "stationBegin":29493000,
+      "description":"&#1056;&#1077;&#1087;&#1077;&#1088; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103; &#1087;&#1088;&#1086;&#1089;&#1072;&#1076;&#1086;&#1082; &#1080; &#1076;&#1077;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1081;",
+      "name":"&#1056;&#1077;&#1087;&#1077;&#1088; &#1082;&#1086;&#1085;&#1090;&#1088;&#1086;&#1083;&#1103; &#1087;&#1088;&#1086;&#1089;&#1072;&#1076;&#1086;&#1082; &#1080; &#1076;&#1077;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1081;",
+      "measureBegin":12661425,
+      "meterNumber":"&#1058;&#1051;.&#1059;-1808-12",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;"
+    },
+    "end_measure_station":126717,
+    "type":"METER",
+    "begin_measure_station":126717
+  },
+  {  
+    "id":185348,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29058786,
+      "lon":47.6189019974276,
+      "lat":43.2365777653468
+    },
+    "start_point":{  
+      "pipe_level":52.29051336,
+      "lon":47.6189225442829,
+      "lat":43.2365813154997
+    },
+    "route_id":5,
+    "subType":"BIG",
+    "characteristics":{  
+      "measureEnd":12661940,
+      "typeCl":"&#1058;&#1064;&#1057;&#1056;_&#1056;&#1055;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":29493515,
+      "weight":5240,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29493285,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x1420",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x1420",
+      "measureBegin":12661710,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057;&#1056; 1420(25.8)-10,0-0,75-&#1050;60-&#1059;",
+      "nominalDiameterBranch":1.42
+    },
+    "end_measure_station":126722,
+    "type":"TEE",
+    "begin_measure_station":126720
+  },
+  {  
+    "id":184775,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29065393,
+      "lon":47.6188837732602,
+      "lat":43.2365746165179
+    },
+    "start_point":{  
+      "pipe_level":52.29058786,
+      "lon":47.6189019974276,
+      "lat":43.2365777653468
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12662144,
+      "stationEnd":29493719,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29493515,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12661940,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126724,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126722
+  },
+  {  
+    "id":185351,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.2906915,
+      "lon":47.6188734104983,
+      "lat":43.2365728260083
+    },
+    "start_point":{  
+      "pipe_level":52.29065393,
+      "lon":47.6188837732602,
+      "lat":43.2365746165179
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":12662260,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1059;&#1050;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":29493835,
+      "weight":1458,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.325,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29493719,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "measureBegin":12662144,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057; 1420(25,8 &#1050;60)&#1093;325(14 &#1050;42)-9,8-0,75-&#1059;",
+      "nominalDiameterBranch":0.325
+    },
+    "end_measure_station":126725,
+    "type":"TEE",
+    "begin_measure_station":126724
+  },
+  {  
+    "id":184782,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29072389,
+      "lon":47.6188644770828,
+      "lat":43.2365712824661
+    },
+    "start_point":{  
+      "pipe_level":52.2906915,
+      "lon":47.6188734104983,
+      "lat":43.2365728260083
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12662360,
+      "stationEnd":29493935,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29493835,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12662260,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126726,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126725
+  },
+  {  
+    "id":185134,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29073685,
+      "lon":47.6188609037166,
+      "lat":43.2365706650493
+    },
+    "start_point":{  
+      "pipe_level":52.29072389,
+      "lon":47.6188644770828,
+      "lat":43.2365712824661
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12662400,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":29493975,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.0258,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.0258,
+      "stationBegin":29493935,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12662360,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":126727,
+    "type":"REDUCER",
+    "begin_measure_station":126726
+  },
+  {  
+    "id":185481,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29081782,
+      "lon":47.6188385701776,
+      "lat":43.2365668061969
+    },
+    "start_point":{  
+      "pipe_level":52.29073685,
+      "lon":47.6188609037166,
+      "lat":43.2365706650493
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12662650,
+      "typeCl":"&#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "stationEnd":29494225,
+      "weight":27465,
+      "nominalPressureRating":100,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalPressureRatingOutlet":100,
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29493975,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "name":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12662400,
+      "nominalPressureRatingInlet":100,
+      "materialCl":"09&#1043;2&#1057;",
+      "manufacturerCl":"&#1058;&#1103;&#1078;&#1087;&#1088;&#1086;&#1084;&#1072;&#1088;&#1084;&#1072;&#1090;&#1091;&#1088;&#1072;",
+      "modelNumber":"11&#1083;&#1089;(6)762&#1088;8"
+    },
+    "end_measure_station":126729,
+    "type":"VALVE",
+    "begin_measure_station":126727
+  },
+  {  
+    "id":185138,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29083078,
+      "lon":47.6188349968115,
+      "lat":43.2365661887807
+    },
+    "start_point":{  
+      "pipe_level":52.29081782,
+      "lon":47.6188385701776,
+      "lat":43.2365668061969
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12662690,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":29494265,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.0258,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.0258,
+      "stationBegin":29494225,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12662650,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":126729,
+    "type":"REDUCER",
+    "begin_measure_station":126729
+  },
+  {  
+    "id":184789,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29086317,
+      "lon":47.6188260633958,
+      "lat":43.2365646452409
+    },
+    "start_point":{  
+      "pipe_level":52.29083078,
+      "lon":47.6188349968115,
+      "lat":43.2365661887807
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12662790,
+      "stationEnd":29494365,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29494265,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12662690,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126730,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126729
+  },
+  {  
+    "id":185354,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29090074,
+      "lon":47.6188157006336,
+      "lat":43.2365628547353
+    },
+    "start_point":{  
+      "pipe_level":52.29086317,
+      "lon":47.6188260633958,
+      "lat":43.2365646452409
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":12662906,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":29494481,
+      "weight":1561,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.53,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29494365,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x530",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x530",
+      "measureBegin":12662790,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057;&#1056; 1420(25,8 &#1050;60)-530(15 &#1050;60)-10-0,75-&#1059;",
+      "nominalDiameterBranch":0.53
+    },
+    "end_measure_station":126732,
+    "type":"TEE",
+    "begin_measure_station":126730
+  },
+  {  
+    "id":184796,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29096843,
+      "lon":47.6187970297948,
+      "lat":43.2365596287399
+    },
+    "start_point":{  
+      "pipe_level":52.29090074,
+      "lon":47.6188157006336,
+      "lat":43.2365628547353
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12663115,
+      "stationEnd":29494690,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29494481,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12662906,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126734,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126732
+  },
+  {  
+    "id":184797,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29109799,
+      "lon":47.6187612961314,
+      "lat":43.2365534545926
+    },
+    "start_point":{  
+      "pipe_level":52.29096843,
+      "lon":47.6187970297948,
+      "lat":43.2365596287399
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12663515,
+      "stationEnd":29495090,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29494690,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12663115,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126738,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126734
+  },
+  {  
+    "id":180448,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":53.58825478,
+      "lon":47.6187180498398,
+      "lat":43.236545982407
+    },
+    "start_point":{  
+      "pipe_level":52.29109799,
+      "lon":47.6187612961314,
+      "lat":43.2365534545926
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12664016,
+      "typeCl":"&#1054;&#1043;",
+      "stationEnd":29495574,
+      "weight":5545,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/2-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "angle":30,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29495090,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1054;&#1090;&#1074;&#1086;&#1076; &#1054;&#1043; 30°-1420(25,8 &#1050;60)-9,8-0,75-5&#1044;&#1091;-2550\/2550-&#1059; 30°",
+      "name":"&#1054;&#1090;&#1074;&#1086;&#1076; &#1054;&#1043; 30°-1420(25,8 &#1050;60)-9,8-0,75-5&#1044;&#1091;-2550\/2550-&#1059; 30°",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12663515,
+      "radius":7.1,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":126743,
+    "type":"ELBOW",
+    "begin_measure_station":126738
+  },
+  {  
+    "id":92421,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":51.923367,
+      "lon":47.6187596717198,
+      "lat":43.2365532179737
+    },
+    "start_point":{  
+      "pipe_level":51.923367,
+      "lon":47.6187596717198,
+      "lat":43.2365532179737
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12663530,
+      "lineClearance":-0.8,
+      "document":[  
+        {  
+          "type":"&#1055;&#1051;&#1053;",
+          "page":"  6976.095.016.024.021.14-&#1058;&#1051; &#1083;.2 &#1055;&#1083;&#1072;&#1085; &#1075;&#1072;&#1079;&#1086;&#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; &#1055;&#1050;2908+00 - &#1055;&#1050;2958+00  (&#1082;&#1084; 960,0 - &#1082;&#1084; 965,1)"
+        }
+      ],
+      "stationEnd":29495107,
+      "stationBegin":29495107,
+      "direction":"&#1047;-&#1042;",
+      "description":"&#1050;&#1072;&#1073;&#1077;&#1083;&#1100; &#1057;&#1050;&#1047; &#1087;&#1086;&#1076;&#1079;&#1077;&#1084;&#1085;&#1099;&#1081;",
+      "name":"&#1050;&#1072;&#1073;&#1077;&#1083;&#1100; &#1057;&#1050;&#1047; &#1087;&#1086;&#1076;&#1079;&#1077;&#1084;&#1085;&#1099;&#1081;",
+      "width":0,
+      "measureBegin":12663530,
+      "crossingNoteTypeCl":"&#1050;&#1072;&#1073;&#1077;&#1083;&#1100; &#1057;&#1050;&#1047; &#1087;&#1086;&#1076;&#1079;&#1077;&#1084;&#1085;&#1099;&#1081;",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "comments":"1 &#1082;&#1072;&#1073;. &#1085;&#1072; &#1072;&#1085;&#1086;&#1076;"
+    },
+    "end_measure_station":126738,
+    "type":"FOREIGN_LINE_CROSSING",
+    "begin_measure_station":126738
+  },
+  {  
+    "id":184798,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":55.50436228,
+      "lon":47.618688400386,
+      "lat":43.2365408595189
+    },
+    "start_point":{  
+      "pipe_level":53.58825478,
+      "lon":47.6187180498398,
+      "lat":43.236545982407
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12664400,
+      "stationEnd":29495906,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29495574,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12664016,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126746,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126743
+  },
+  {  
+    "id":180457,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":56.80151904,
+      "lon":47.6186451630265,
+      "lat":43.2365333888978
+    },
+    "start_point":{  
+      "pipe_level":55.50436228,
+      "lon":47.618688400386,
+      "lat":43.2365408595189
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12664901,
+      "typeCl":"&#1054;&#1043;",
+      "stationEnd":29496390,
+      "weight":5545,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/2-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "angle":30,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29495906,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1054;&#1090;&#1074;&#1086;&#1076; &#1054;&#1043; 30°-1420(25,8 &#1050;60)-9,8-0,75-5&#1044;&#1091;-2550\/2550-&#1059; 30°",
+      "name":"&#1054;&#1090;&#1074;&#1086;&#1076; &#1054;&#1043; 30°-1420(25,8 &#1050;60)-9,8-0,75-5&#1044;&#1091;-2550\/2550-&#1059; 30°",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12664400,
+      "radius":7.1,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":126751,
+    "type":"ELBOW",
+    "begin_measure_station":126746
+  },
+  {  
+    "id":184799,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":56.80155467,
+      "lon":47.6186353362684,
+      "lat":43.2365316910164
+    },
+    "start_point":{  
+      "pipe_level":56.80151904,
+      "lon":47.6186451630265,
+      "lat":43.2365333888978
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12665011,
+      "stationEnd":29496500,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29496390,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12664901,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126752,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126751
+  },
+  {  
+    "id":180484,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":56.80188503,
+      "lon":47.6185442154192,
+      "lat":43.2365159470554
+    },
+    "start_point":{  
+      "pipe_level":56.80155467,
+      "lon":47.6186353362684,
+      "lat":43.2365316910164
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12666031,
+      "trapPressureRating":100,
+      "typeCl":"&#1050;&#1072;&#1084;&#1077;&#1088;&#1072; &#1087;&#1088;&#1080;&#1077;&#1084;&#1072;",
+      "document":[  
+
+      ],
+      "stationEnd":29497520,
+      "weight":31100,
+      "stationBegin":29496500,
+      "description":"&#1050;&#1072;&#1084;&#1077;&#1088;&#1072; &#1087;&#1088;&#1080;&#1077;&#1084;&#1072;",
+      "name":"&#1050;&#1072;&#1084;&#1077;&#1088;&#1072; &#1087;&#1088;&#1080;&#1077;&#1084;&#1072;",
+      "measureBegin":12665011,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "barrelDiameter":1.6,
+      "manufacturerCl":"RMA Pipeline Equipment"
+    },
+    "end_measure_station":126762,
+    "type":"LAUNCHER_RECEIVER",
+    "begin_measure_station":126752
+  },
+  {  
+    "id":180491,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":56.80304456,
+      "lon":47.6182243990759,
+      "lat":43.2364606892759
+    },
+    "start_point":{  
+      "pipe_level":56.80276601,
+      "lon":47.6183012264698,
+      "lat":43.2364739634289
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12669611,
+      "trapPressureRating":100,
+      "typeCl":"&#1050;&#1072;&#1084;&#1077;&#1088;&#1072; &#1079;&#1072;&#1087;&#1091;&#1089;&#1082;&#1072;",
+      "document":[  
+
+      ],
+      "stationEnd":29501100,
+      "weight":28650,
+      "stationBegin":29500240,
+      "description":"&#1050;&#1072;&#1084;&#1077;&#1088;&#1072; &#1079;&#1072;&#1087;&#1091;&#1089;&#1082;&#1072;",
+      "name":"&#1050;&#1072;&#1084;&#1077;&#1088;&#1072; &#1079;&#1072;&#1087;&#1091;&#1089;&#1082;&#1072;",
+      "measureBegin":12668751,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "barrelDiameter":1.6,
+      "manufacturerCl":"RMA Pipeline Equipment"
+    },
+    "end_measure_station":126798,
+    "type":"LAUNCHER_RECEIVER",
+    "begin_measure_station":126789
+  },
+  {  
+    "id":184800,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":56.80308019,
+      "lon":47.618214572316,
+      "lat":43.2364589914218
+    },
+    "start_point":{  
+      "pipe_level":56.80304456,
+      "lon":47.6182243990759,
+      "lat":43.2364606892759
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12669721,
+      "stationEnd":29501210,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29501100,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12669611,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126799,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126798
+  },
+  {  
+    "id":180466,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":55.50623695,
+      "lon":47.6181713341968,
+      "lat":43.2364515208071
+    },
+    "start_point":{  
+      "pipe_level":56.80308019,
+      "lon":47.618214572316,
+      "lat":43.2364589914218
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12670222,
+      "typeCl":"&#1054;&#1043;",
+      "stationEnd":29501694,
+      "weight":5545,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/2-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "angle":30,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29501210,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1054;&#1090;&#1074;&#1086;&#1076; &#1054;&#1043; 30°-1420(25,8 &#1050;60)-9,8-0,75-5&#1044;&#1091;-2550\/2550-&#1059; 30°",
+      "name":"&#1054;&#1090;&#1074;&#1086;&#1076; &#1054;&#1043; 30°-1420(25,8 &#1050;60)-9,8-0,75-5&#1044;&#1091;-2550\/2550-&#1059; 30°",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12669721,
+      "radius":7.1,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":126804,
+    "type":"ELBOW",
+    "begin_measure_station":126799
+  },
+  {  
+    "id":184801,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":53.59034445,
+      "lon":47.6181416836271,
+      "lat":43.2364463978353
+    },
+    "start_point":{  
+      "pipe_level":55.50623695,
+      "lon":47.6181713341968,
+      "lat":43.2364515208071
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12670605,
+      "stationEnd":29502026,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29501694,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12670222,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126807,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126804
+  },
+  {  
+    "id":180475,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29350125,
+      "lon":47.618098436573,
+      "lat":43.2364389256981
+    },
+    "start_point":{  
+      "pipe_level":53.59034445,
+      "lon":47.6181416836271,
+      "lat":43.2364463978353
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12671106,
+      "typeCl":"&#1054;&#1043;",
+      "stationEnd":29502510,
+      "weight":5545,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/2-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "angle":30,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29502026,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1054;&#1090;&#1074;&#1086;&#1076; &#1054;&#1043; 30°-1420(25,8 &#1050;60)-9,8-0,75-5&#1044;&#1091;-2550\/2550-&#1059; 30°",
+      "name":"&#1054;&#1090;&#1074;&#1086;&#1076; &#1054;&#1043; 30°-1420(25,8 &#1050;60)-9,8-0,75-5&#1044;&#1091;-2550\/2550-&#1059; 30°",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12670605,
+      "radius":7.1,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":126812,
+    "type":"ELBOW",
+    "begin_measure_station":126807
+  },
+  {  
+    "id":184805,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.2936308,
+      "lon":47.6180627028986,
+      "lat":43.2364327517166
+    },
+    "start_point":{  
+      "pipe_level":52.29350125,
+      "lon":47.618098436573,
+      "lat":43.2364389256981
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12671506,
+      "stationEnd":29502910,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29502510,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12671106,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126816,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126812
+  },
+  {  
+    "id":174971,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":0,
+      "lon":47.6178042365922,
+      "lat":43.2401354663487
+    },
+    "start_point":{  
+      "pipe_level":0,
+      "lon":47.6178042365922,
+      "lat":43.2401354663487
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12670956,
+      "typeCl":"&#1050;&#1048;&#1055;",
+      "document":[  
+        {  
+          "type":"&#1055;&#1051;&#1053;",
+          "details":"&#1055;&#1083;&#1072;&#1085; &#1088;&#1072;&#1089;&#1087;&#1086;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1103; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074; &#1080; &#1072;&#1085;&#1086;&#1076;&#1085;&#1086;&#1075;&#1086; &#1079;&#1072;&#1079;&#1077;&#1084;&#1083;&#1077;&#1085;&#1080;&#1103; &#1069;&#1061;&#1047; &#1085;&#1072; &#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1077; &#1059;&#1050;&#1047; ",
+          "page":"6976.095.016.045.016.02-&#1069;&#1061;&#1047; &#1083;.2"
+        }
+      ],
+      "stationEnd":29502533,
+      "poleCl":"&#1050;&#1048;&#1055;.&#1069;&#1060;&#1057;.2-1.0-6",
+      "stationBegin":29502533,
+      "description":"&#1050;&#1048;&#1055; &#8470;&#1043;&#1040;&#1047; #2 (&#1059;&#1050;&#1047; &#1082;&#1084;. 964.7) &#1074; &#1089;&#1086;&#1089;&#1090;&#1072;&#1074;&#1077; &#1059;&#1050;&#1047; &#1082;&#1084;. 964.7",
+      "name":"&#1050;&#1048;&#1055; &#8470;&#1043;&#1040;&#1047; #2 (&#1059;&#1050;&#1047; &#1082;&#1084;. 964.7) &#1074; &#1089;&#1086;&#1089;&#1090;&#1072;&#1074;&#1077; &#1059;&#1050;&#1047; &#1082;&#1084;. 964.7",
+      "measureBegin":12670956,
+      "junctionBoxName":"&#1043;&#1040;&#1047; #2",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "comments":"&#1050;&#1048;&#1055; &#8470;&#1043;&#1040;&#1047; #2 (&#1059;&#1050;&#1047; &#1082;&#1084;. 964.7)"
+    },
+    "end_measure_station":126812,
+    "type":"JUNCTION_BOX",
+    "begin_measure_station":126812
+  },
+  {  
+    "id":184809,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29369849,
+      "lon":47.6180440320534,
+      "lat":43.2364295258146
+    },
+    "start_point":{  
+      "pipe_level":52.2936308,
+      "lon":47.6180627028986,
+      "lat":43.2364327517166
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12671715,
+      "stationEnd":29503119,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29502910,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12671506,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126818,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126816
+  },
+  {  
+    "id":185357,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29373607,
+      "lon":47.6180336692877,
+      "lat":43.2364277353629
+    },
+    "start_point":{  
+      "pipe_level":52.29369849,
+      "lon":47.6180440320534,
+      "lat":43.2364295258146
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":12671831,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1059;&#1050;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":29503235,
+      "weight":1458,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.325,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29503119,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "measureBegin":12671715,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057; 1420(25,8 &#1050;60)&#1093;325(14 &#1050;42)-9,8-0,75-&#1059;",
+      "nominalDiameterBranch":0.325
+    },
+    "end_measure_station":126819,
+    "type":"TEE",
+    "begin_measure_station":126818
+  },
+  {  
+    "id":184816,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29376845,
+      "lon":47.6180247358689,
+      "lat":43.2364261918705
+    },
+    "start_point":{  
+      "pipe_level":52.29373607,
+      "lon":47.6180336692877,
+      "lat":43.2364277353629
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12671931,
+      "stationEnd":29503335,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29503235,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12671831,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126820,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126819
+  },
+  {  
+    "id":185142,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29378141,
+      "lon":47.6180211625013,
+      "lat":43.2364255744738
+    },
+    "start_point":{  
+      "pipe_level":52.29376845,
+      "lon":47.6180247358689,
+      "lat":43.2364261918705
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12671971,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":29503375,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.0258,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.0258,
+      "stationBegin":29503335,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12671931,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":126821,
+    "type":"REDUCER",
+    "begin_measure_station":126820
+  },
+  {  
+    "id":185482,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29386238,
+      "lon":47.6179988289541,
+      "lat":43.2364217157458
+    },
+    "start_point":{  
+      "pipe_level":52.29378141,
+      "lon":47.6180211625013,
+      "lat":43.2364255744738
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12672221,
+      "typeCl":"&#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "stationEnd":29503625,
+      "weight":27465,
+      "nominalPressureRating":100,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalPressureRatingOutlet":100,
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29503375,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "name":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12671971,
+      "nominalPressureRatingInlet":100,
+      "materialCl":"09&#1043;2&#1057;",
+      "manufacturerCl":"&#1058;&#1103;&#1078;&#1087;&#1088;&#1086;&#1084;&#1072;&#1088;&#1084;&#1072;&#1090;&#1091;&#1088;&#1072;",
+      "modelNumber":"11&#1083;&#1089;(6)762&#1088;8"
+    },
+    "end_measure_station":126823,
+    "type":"VALVE",
+    "begin_measure_station":126821
+  },
+  {  
+    "id":185146,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29387534,
+      "lon":47.6179952555865,
+      "lat":43.2364210983497
+    },
+    "start_point":{  
+      "pipe_level":52.29386238,
+      "lon":47.6179988289541,
+      "lat":43.2364217157458
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12672261,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":29503665,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.0258,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.0258,
+      "stationBegin":29503625,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12672221,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":126823,
+    "type":"REDUCER",
+    "begin_measure_station":126823
+  },
+  {  
+    "id":184823,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29397898,
+      "lon":47.6179666686457,
+      "lat":43.2364161591835
+    },
+    "start_point":{  
+      "pipe_level":52.29387534,
+      "lon":47.6179952555865,
+      "lat":43.2364210983497
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12672581,
+      "stationEnd":29503985,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29503665,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12672261,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126827,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126823
+  },
+  {  
+    "id":185360,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29405348,
+      "lon":47.6179461217817,
+      "lat":43.2364126091611
+    },
+    "start_point":{  
+      "pipe_level":52.29397898,
+      "lon":47.6179666686457,
+      "lat":43.2364161591835
+    },
+    "route_id":5,
+    "subType":"BIG",
+    "characteristics":{  
+      "measureEnd":12672811,
+      "typeCl":"&#1058;&#1064;&#1057;&#1056;_&#1056;&#1055;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":29504215,
+      "weight":5240,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.0258,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29503985,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x1420",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x1420",
+      "measureBegin":12672581,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057;&#1056; 1420(25.8)-10,0-0,75-&#1050;60-&#1059;",
+      "nominalDiameterBranch":1.42
+    },
+    "end_measure_station":126829,
+    "type":"TEE",
+    "begin_measure_station":126827
+  },
+  {  
+    "id":184830,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29444214,
+      "lon":47.6178389207494,
+      "lat":43.2363940873506
+    },
+    "start_point":{  
+      "pipe_level":52.29405348,
+      "lon":47.6179461217817,
+      "lat":43.2364126091611
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12673838,
+      "stationEnd":29505415,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29504215,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12672811,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126841,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126829
+  },
+  {  
+    "id":184834,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":52.29446968,
+      "lon":47.6178313273427,
+      "lat":43.236392775392
+    },
+    "start_point":{  
+      "pipe_level":52.29444214,
+      "lon":47.6178389207494,
+      "lat":43.2363940873506
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12673923,
+      "stationEnd":29505500,
+      "weight":895.95,
+      "nominalWallThickness":0.0258,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29505415,
+      "description":"1420x25.8",
+      "name":"1420x25.8",
+      "measureBegin":12673838,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":126842,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":126841
+  },
+  {  
+    "id":174975,
+    "event_group_id":190020,
+    "end_point":{  
+      "pipe_level":0,
+      "lon":47.6174887903311,
+      "lat":43.2400822061352
+    },
+    "start_point":{  
+      "pipe_level":0,
+      "lon":47.6174887903311,
+      "lat":43.2400822061352
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12674486,
+      "typeCl":"&#1050;&#1048;&#1055;",
+      "document":[  
+        {  
+          "type":"&#1055;&#1051;&#1053;",
+          "details":"&#1055;&#1083;&#1072;&#1085; &#1088;&#1072;&#1089;&#1087;&#1086;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1103; &#1089;&#1088;&#1077;&#1076;&#1089;&#1090;&#1074; &#1080; &#1072;&#1085;&#1086;&#1076;&#1085;&#1086;&#1075;&#1086; &#1079;&#1072;&#1079;&#1077;&#1084;&#1083;&#1077;&#1085;&#1080;&#1103; &#1069;&#1061;&#1047; &#1085;&#1072; &#1087;&#1083;&#1086;&#1097;&#1072;&#1076;&#1082;&#1077; &#1059;&#1050;&#1047; ",
+          "page":"6976.095.016.045.016.02-&#1069;&#1061;&#1047; &#1083;.2"
+        }
+      ],
+      "stationEnd":29506063,
+      "poleCl":"&#1050;&#1048;&#1055;.&#1069;&#1060;&#1057;.2-1.0-6",
+      "stationBegin":29506063,
+      "description":"&#1050;&#1048;&#1055; &#8470;&#1043;&#1040;&#1047; #1 (&#1059;&#1050;&#1047; &#1082;&#1084;. 964.7) &#1074; &#1089;&#1086;&#1089;&#1090;&#1072;&#1074;&#1077; &#1059;&#1050;&#1047; &#1082;&#1084;. 964.7",
+      "name":"&#1050;&#1048;&#1055; &#8470;&#1043;&#1040;&#1047; #1 (&#1059;&#1050;&#1047; &#1082;&#1084;. 964.7) &#1074; &#1089;&#1086;&#1089;&#1090;&#1072;&#1074;&#1077; &#1059;&#1050;&#1047; &#1082;&#1084;. 964.7",
+      "measureBegin":12674486,
+      "junctionBoxName":"&#1043;&#1040;&#1047; #1",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "comments":"&#1050;&#1048;&#1055; &#8470;&#1043;&#1040;&#1047; #1 (&#1059;&#1050;&#1047; &#1082;&#1084;. 964.7)"
+    },
+    "end_measure_station":126847,
+    "type":"JUNCTION_BOX",
+    "begin_measure_station":126847
+  },
+  {  
+    "id":87048,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6147211307421,
+      "lat":43.235855453993
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6147416767353,
+      "lat":43.2358590116977
+    },
+    "route_id":5,
+    "subType":"BIG",
+    "characteristics":{  
+      "measureEnd":12708743,
+      "typeCl":"&#1058;&#1064;&#1057;&#1056;_&#1056;&#1055;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":29540315,
+      "weight":5315,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.032,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+        {  
+          "type":"&#1055;&#1051;&#1053;",
+          "page":"  6976.095.016.024.021.14-&#1058;&#1051; &#1083;.2 &#1055;&#1083;&#1072;&#1085; &#1075;&#1072;&#1079;&#1086;&#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; &#1055;&#1050;2908+00 - &#1055;&#1050;2958+00  (&#1082;&#1084; 960,0 - &#1082;&#1084; 965,1)"
+        }
+      ],
+      "stationBegin":29540085,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x1420",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x1420",
+      "measureBegin":12708513,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057;&#1056; 1420(32)-10,0-0,6-&#1050;60-&#1059;",
+      "nominalDiameterBranch":1.42
+    },
+    "end_measure_station":127190,
+    "type":"TEE",
+    "begin_measure_station":127188
+  },
+  {  
+    "id":189544,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.614704960255,
+      "lat":43.2358526697005
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6147211307421,
+      "lat":43.235855453993
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12708924,
+      "stationEnd":29540496,
+      "weight":1106.3,
+      "nominalWallThickness":0.032,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29540315,
+      "description":"1420x32",
+      "name":"1420x32",
+      "measureBegin":12708743,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":127192,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":127190
+  },
+  {  
+    "id":189865,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146945974527,
+      "lat":43.2358508797467
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.614704960255,
+      "lat":43.2358526697005
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":12709040,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":29540612,
+      "weight":1458,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.032,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.325,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29540496,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "measureBegin":12708924,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057; 1420(32 &#1050;60)&#1093;325(14 &#1050;42)-10-0,6-&#1059;",
+      "nominalDiameterBranch":0.325
+    },
+    "end_measure_station":127193,
+    "type":"TEE",
+    "begin_measure_station":127192
+  },
+  {  
+    "id":189551,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146856640024,
+      "lat":43.2358493366836
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146945974527,
+      "lat":43.2358508797467
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12709140,
+      "stationEnd":29540712,
+      "weight":1106.3,
+      "nominalWallThickness":0.032,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29540612,
+      "description":"1420x32",
+      "name":"1420x32",
+      "measureBegin":12709040,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":127194,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":127193
+  },
+  {  
+    "id":189740,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146820906221,
+      "lat":43.2358487194586
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146856640024,
+      "lat":43.2358493366836
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12709180,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":29540752,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.032,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.032,
+      "stationBegin":29540712,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12709140,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":127194,
+    "type":"REDUCER",
+    "begin_measure_station":127194
+  },
+  {  
+    "id":190011,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146597569962,
+      "lat":43.2358448618038
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146820906221,
+      "lat":43.2358487194586
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12709430,
+      "typeCl":"&#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "stationEnd":29541002,
+      "weight":27465,
+      "nominalPressureRating":100,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalPressureRatingOutlet":100,
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29540752,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "name":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12709180,
+      "nominalPressureRatingInlet":100,
+      "materialCl":"09&#1043;2&#1057;",
+      "manufacturerCl":"&#1058;&#1103;&#1078;&#1087;&#1088;&#1086;&#1084;&#1072;&#1088;&#1084;&#1072;&#1090;&#1091;&#1088;&#1072;",
+      "modelNumber":"11&#1083;&#1089;(6)762&#1088;8"
+    },
+    "end_measure_station":127197,
+    "type":"VALVE",
+    "begin_measure_station":127194
+  },
+  {  
+    "id":189744,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.614656183616,
+      "lat":43.2358442445794
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146597569962,
+      "lat":43.2358448618038
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12709470,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":29541042,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.032,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.032,
+      "stationBegin":29541002,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12709430,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":127197,
+    "type":"REDUCER",
+    "begin_measure_station":127197
+  },
+  {  
+    "id":189558,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146472501655,
+      "lat":43.2358427015186
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.614656183616,
+      "lat":43.2358442445794
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12709570,
+      "stationEnd":29541142,
+      "weight":1106.3,
+      "nominalWallThickness":0.032,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29541042,
+      "description":"1420x32",
+      "name":"1420x32",
+      "measureBegin":12709470,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":127198,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":127197
+  },
+  {  
+    "id":189868,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146368873629,
+      "lat":43.2358409115688
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146472501655,
+      "lat":43.2358427015186
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":12709686,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":29541258,
+      "weight":1458,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.032,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.325,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29541142,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "measureBegin":12709570,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057; 1420(32 &#1050;60)&#1093;325(14 &#1050;42)-10-0,6-&#1059;",
+      "nominalDiameterBranch":0.325
+    },
+    "end_measure_station":127199,
+    "type":"TEE",
+    "begin_measure_station":127198
+  },
+  {  
+    "id":189565,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146279539124,
+      "lat":43.2358393685092
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146368873629,
+      "lat":43.2358409115688
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12709786,
+      "stationEnd":29541358,
+      "weight":1106.3,
+      "nominalWallThickness":0.032,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29541258,
+      "description":"1420x32",
+      "name":"1420x32",
+      "measureBegin":12709686,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":127200,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":127199
+  },
+  {  
+    "id":189748,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146243805321,
+      "lat":43.2358387512854
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146279539124,
+      "lat":43.2358393685092
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12709826,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":29541398,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.032,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.032,
+      "stationBegin":29541358,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12709786,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":127201,
+    "type":"REDUCER",
+    "begin_measure_station":127200
+  },
+  {  
+    "id":190012,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146020469055,
+      "lat":43.2358348936392
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146243805321,
+      "lat":43.2358387512854
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12710076,
+      "typeCl":"&#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "stationEnd":29541648,
+      "weight":27465,
+      "nominalPressureRating":100,
+      "specificationCl":"&#1058;&#1059; 26-07-1450-96",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalPressureRatingOutlet":100,
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29541398,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "name":"&#1050;&#1088;&#1072;&#1085; &#1050;&#1064;_&#1055;&#1043;_&#1055;&#1044;_&#1059;_&#1057;_15&#1048;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12709826,
+      "nominalPressureRatingInlet":100,
+      "materialCl":"09&#1043;2&#1057;",
+      "manufacturerCl":"&#1058;&#1103;&#1078;&#1087;&#1088;&#1086;&#1084;&#1072;&#1088;&#1084;&#1072;&#1090;&#1091;&#1088;&#1072;",
+      "modelNumber":"11&#1083;&#1089;(6)762&#1088;8"
+    },
+    "end_measure_station":127203,
+    "type":"VALVE",
+    "begin_measure_station":127201
+  },
+  {  
+    "id":189752,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6145984735253,
+      "lat":43.2358342764161
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6146020469055,
+      "lat":43.2358348936392
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12710116,
+      "typeCl":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "stationEnd":29541688,
+      "weight":0,
+      "nominalPressureRating":100,
+      "nominalWallThicknessOutlet":0.032,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "nominalDiameterOutlet":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "nominalWallThicknessInlet":0.032,
+      "stationBegin":29541648,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "name":"&#1050;&#1086;&#1083;&#1100;&#1094;&#1086; &#1087;&#1077;&#1088;&#1077;&#1093;&#1086;&#1076;&#1085;&#1086;&#1077;",
+      "nominalDiameterInlet":1.42,
+      "measureBegin":12710076,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;"
+    },
+    "end_measure_station":127204,
+    "type":"REDUCER",
+    "begin_measure_station":127203
+  },
+  {  
+    "id":189572,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6145895400746,
+      "lat":43.2358327333588
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6145984735253,
+      "lat":43.2358342764161
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12710216,
+      "stationEnd":29541788,
+      "weight":1106.3,
+      "nominalWallThickness":0.032,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29541688,
+      "description":"1420x32",
+      "name":"1420x32",
+      "measureBegin":12710116,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":127205,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":127204
+  },
+  {  
+    "id":189871,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6145791772717,
+      "lat":43.2358309434129
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6145895400746,
+      "lat":43.2358327333588
+    },
+    "route_id":5,
+    "subType":"SMALL",
+    "characteristics":{  
+      "measureEnd":12710332,
+      "typeCl":"&#1058;&#1064;&#1057;_&#1055;&#1056;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":29541904,
+      "weight":1458,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.032,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":0.325,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+
+      ],
+      "stationBegin":29541788,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x325",
+      "measureBegin":12710216,
+      "materialCl":"10&#1043;2&#1060;&#1041;&#1070;",
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057; 1420(32 &#1050;60)&#1093;325(14 &#1050;42)-10-0,6-&#1059;",
+      "nominalDiameterBranch":0.325
+    },
+    "end_measure_station":127206,
+    "type":"TEE",
+    "begin_measure_station":127205
+  },
+  {  
+    "id":189576,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6145630029009,
+      "lat":43.2358281451599
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6145791772717,
+      "lat":43.2358309434129
+    },
+    "route_id":5,
+    "characteristics":{  
+      "measureEnd":12710513,
+      "stationEnd":29542085,
+      "weight":1106.3,
+      "nominalWallThickness":0.032,
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "longitudinalSeamCl":"&#1069;&#1083;&#1089;&#1074;&#1072;&#1088;&#1085;. &#1087;&#1088;&#1103;&#1084;&#1086;&#1096;&#1086;&#1074;&#1085;&#1072;&#1103;, 1 &#1096;&#1086;&#1074;",
+      "millLocationCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;",
+      "document":[  
+
+      ],
+      "stationBegin":29541904,
+      "description":"1420x32",
+      "name":"1420x32",
+      "measureBegin":12710332,
+      "pipeSpecificationCl":"&#1058;&#1059; 1381-012-05757848-2005",
+      "nominalDiameter":1.42,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1042;&#1052;&#1047;"
+    },
+    "end_measure_station":127208,
+    "type":"PIPE_SEGMENT",
+    "begin_measure_station":127206
+  },
+  {  
+    "id":87055,
+    "event_group_id":190021,
+    "end_point":{  
+      "pipe_level":56.59,
+      "lon":47.6145424568845,
+      "lat":43.235824600781
+    },
+    "start_point":{  
+      "pipe_level":56.59,
+      "lon":47.6145630029009,
+      "lat":43.2358281451599
+    },
+    "route_id":5,
+    "subType":"BIG",
+    "characteristics":{  
+      "measureEnd":12710743,
+      "typeCl":"&#1058;&#1064;&#1057;&#1056;_&#1056;&#1055;_&#1048;",
+      "nominalDiameterMain":1.42,
+      "stationEnd":29542315,
+      "weight":5315,
+      "nominalPressureRating":100,
+      "nominalWallThickness":0.032,
+      "specificationCl":"&#1043;&#1072;&#1079;&#1058;&#1059; 102-488\/1-05",
+      "sourceCl":"&#1055;&#1056;&#1054;&#1045;&#1050;&#1058;",
+      "outsideDiameterBranch":1.42,
+      "outsideDiameterOutlet":1.42,
+      "document":[  
+        {  
+          "type":"&#1055;&#1051;&#1053;",
+          "page":"  6976.095.016.024.021.14-&#1058;&#1051; &#1083;.2 &#1055;&#1083;&#1072;&#1085; &#1075;&#1072;&#1079;&#1086;&#1087;&#1088;&#1086;&#1074;&#1086;&#1076;&#1072; &#1055;&#1050;2908+00 - &#1055;&#1050;2958+00  (&#1082;&#1084; 960,0 - &#1082;&#1084; 965,1)"
+        }
+      ],
+      "stationBegin":29542085,
+      "outsideDiameterInlet":1.42,
+      "description":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x1420",
+      "name":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; 1420x1420",
+      "measureBegin":12710513,
+      "manufacturerCl":"&#1054;&#1040;&#1054; &#1058;&#1088;&#1091;&#1073;&#1086;&#1076;&#1077;&#1090;&#1072;&#1083;&#1100;",
+      "comments":"&#1058;&#1088;&#1086;&#1081;&#1085;&#1080;&#1082; &#1058;&#1064;&#1057;&#1056; 1420(32)-10,0-0,6-&#1050;60-&#1059;",
+      "nominalDiameterBranch":1.42
+    },
+    "end_measure_station":127210,
+    "type":"TEE",
+    "begin_measure_station":127208
+  }
+]
+}

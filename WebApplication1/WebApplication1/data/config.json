@@ -1,0 +1,10 @@
+{
+"PipeSegmentation":6,
+"ConnectionSegmentation":6,
+"MinPointSize":0.15,
+"MinLogSize":1.04,
+"LogSizeBase":200,
+"DefaultColor":[21,21,21],
+"AddiveColor":[84,84,84],
+"SelectedColor":[255,128,71]
+}
